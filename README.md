@@ -10,4 +10,6 @@
 <p>
   <h3>Career Objective</h3>
 <hr style="border: 2px solid black;">
+  <p> I want to be associated with a professionally run organization where I can learn and develop along with it and
+ realize my potential to contribute to the organizational growth.</p>
 </p>
