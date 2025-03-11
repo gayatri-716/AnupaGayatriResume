@@ -13,3 +13,8 @@
   <p> I want to be associated with a professionally run organization where I can learn and develop along with it and
  realize my potential to contribute to the organizational growth.</p>
 </p>
+<p>
+  <h3>Education</h3>
+<hr style="border: 2px solid black;">
+  <p><b>G. Pulla Reddy Engineering College (Autonomous), Kurnool &emsp; Nov 2021 -  2025</b></p><br>
+</p>
