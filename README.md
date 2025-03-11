@@ -9,4 +9,5 @@
 </p>
 <p>
   <h3>Career Objective</h3>
+<hr style="border: 2px solid black;">
 </p>
