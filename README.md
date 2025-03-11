@@ -1,7 +1,10 @@
 # AnupaGayatriResume
 <p>
-  <h2 align ="center"> ANUPA GAYATRI </h2>
+  <h1 align ="center"> ANUPA GAYATRI </h1>
 </p>
 <p align="center">
-  <b>Phone No : +91 9493847657&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn : www.linkedin.com/in/anupa-gayatri-576030248/ &nbsp;&nbsp;&nbsp;&nbsp;Mail I'd : gayatrianupa@gmail.com</b>
+  <b><u>Phone No : +91 9493847657</u> &nbsp;&nbsp;&nbsp;&nbsp;<u>LinkedIn : www.linkedin.com/in/anupa-gayatri-576030248/</u> &nbsp;&nbsp;&nbsp;<u>Mail I'd : gayatrianupa@gmail.com</u></b>
+</p>
+<p>
+  <h3>Career Objective</h3>
 </p>
