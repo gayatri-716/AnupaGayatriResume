@@ -14,5 +14,5 @@
 </p>
 <p>
   <h2>Education</h2>
-  <p><b>G. Pulla Reddy Engineering College (Autonomous), Kurnool</b> &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; Nov 2021 -  2025<br> Bachelor of Technology, Computer Science and Engineering(CSE) &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  <b>GPA</b>  (upto 4-1) : <b>6.8</b>
+  <p><b>G. Pulla Reddy Engineering College (Autonomous), Kurnool</b> &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; Nov 2021 -  2025<br> Bachelor of Technology, Computer Science and Engineering(CSE) &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;  <b>GPA</b>  (upto 4-1) : <b>6.8</b>
 </p>
