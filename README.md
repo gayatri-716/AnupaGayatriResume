@@ -20,31 +20,31 @@
 </p>
   <p><b> Sri Gayatri Junior College, Kurnool </b> &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp; Jul 2019 - Apr 2021<br>  Intermediate in MPC (Maths, Physics, Chemistry)  &emsp;&emsp;&emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp; <b> Percentage: 92.3% </b>
 </p>
-<p><b> Montessori English Medium High School </b>  &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; Mar 2019<br>  Secondary School Certificate (SSC) &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;  <b>GPA : 9.8</b>
+<p><b> Montessori English Medium High School </b>  &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; Mar 2019<br>  Secondary School Certificate (SSC) &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;  <b>GPA : 9.8</b>
 </p>
 <p>
   <h2>Internships</h2>
-    <li><b> Web Development Intern at VaultOfCodes</b> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &nbsp;Dec 2023- Jan 2024 </li> - &nbsp;&nbsp;I have worked with Python and Web Technologies such as HTML, CSS and SQL.
-    <li><b> Full Stack Java Intern at SkillDzire of AICTE</b> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;  July 2024 - Aug 2024 </li> - &nbsp;&nbsp;Developed internal applications, including a Student Profile Management system, using HTML, CSS, and Java.
+    <li><b> Web Development Intern at VaultOfCodes</b> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &nbsp;Dec 2023- Jan 2024 </li> - &nbsp;&nbsp;I have worked with Python and Web Technologies such as `HTML`, `CSS` and `SQL`.
+    <li><b> Full Stack Java Intern at SkillDzire of AICTE</b> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;  July 2024 - Aug 2024 </li> - &nbsp;&nbsp;Developed internal applications, including a Student Profile Management system, using `HTML`, `CSS`, and `Java`.
     <li><b> UI/UX Intern at AvaIntern Edutech Pvt. Ltd </b> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp; Jan 2025 - Present  </li> - &nbsp;&nbsp;Designing products to ensure a smooth and efficient user experience.
 </p>
 <p>
   <h2>Projects</h2>
-  <li><b>Automated Text OverLay :-</b></li>- Real-time transcription, speaker diarization, and subtitle formatting for seamless video accessibility.<br> <br>
-  <li><b>E-Commerce Website :-</b></li>- Using Full Stack Java and the Web Technologies the platform is created for easy shopping.<br>
+  <li><b>Automated Text OverLay :-</b></li>- &nbsp;&nbsp;Real-time transcription, speaker diarization, and subtitle formatting for seamless video accessibility.<br> <br>
+  <li><b>E-Commerce Website :-</b></li>- &nbsp;&nbsp;Using Full Stack Java and the Web Technologies the platform is created for easy shopping.<br>
 </p>
 <p>
   <h2>Skills</h2>
-  <li><b> Programming Skills:</b>  Basics of Java, Python, HTML</li>
- <li><b>Technical Skills:</b> Data Science</li>
+  <li><b>`Programming Skills`:</b>  Basics of Java, Python, HTML</li>
+ <li><b>`Technical Skills`:</b> Data Science</li>
  <li>Problem Solving, MS office, Communication Skills, Content Editing, Technical Writing, Interpersonal Skills</li>
 </p>
 <p>
   <h2>Certifications</h2>
-  <li><b>HTML</b> Training certificate from Spoken Tutorials.</li>
- <li><b>PHP</b> and <b>MySQL</b> certificates from Spoken Tutorials.</li>
- <li><b>Java</b> Training certificate from Infotech Computers.</li>
- <li><b>Data Science</b> workshop certificate with Techgyan at <b>IIT Hyderabad.</b></li>
+  <li><b>`HTML`</b> Training certificate from Spoken Tutorials.</li>
+ <li><b>`PHP`</b> and <b>MySQL</b> certificates from Spoken Tutorials.</li>
+ <li><b>`Java`</b> Training certificate from Infotech Computers.</li>
+ <li><b>`Data Science`</b> workshop certificate with Techgyan at <b>IIT Hyderabad.</b></li>
 </p>
 <p>
   <h2>Languages</h2>
