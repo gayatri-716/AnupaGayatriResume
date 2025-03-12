@@ -26,5 +26,5 @@
   <h2>Internships</h2>
   <ul>
     <li><b> Web Development Intern at VaultOfCodes</b></li>
-  </ul> &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; Nov 2021 -  2025<br> Bachelor of Technology, Computer Science and Engineering(CSE) &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&nbsp; &emsp;&emsp;&emsp;  <b>GPA</b>  (upto 4-1) : <b>6.8</b>
+  </ul> &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;   Dec 2023- Jan 2024 &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&nbsp; &emsp;&emsp;&emsp; - I have worked with <b>Python</b> and <b>Web Technologies</b> such as <b>HTML, CSS and SQL.</b>
 </p>
