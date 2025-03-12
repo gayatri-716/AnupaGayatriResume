@@ -22,3 +22,9 @@
 </p>
 <p><b> Montessori English Medium High School </b>  &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; Mar 2019<br>  Secondary School Certificate (SSC) &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;  <b>GPA : 9.8</b>
 </p>
+<p>
+  <h2>Internships</h2>
+  <ul>
+    <li><b> Web Development Intern at VaultOfCodes</b></li>
+  </ul> &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; Nov 2021 -  2025<br> Bachelor of Technology, Computer Science and Engineering(CSE) &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&nbsp; &emsp;&emsp;&emsp;  <b>GPA</b>  (upto 4-1) : <b>6.8</b>
+</p>
