@@ -35,7 +35,7 @@
 </p>
 <p>
   <h2>Skills</h2>
-  <li><b> Programming Skills:</b>  Basics of Java, Python, HTML<br>
- <li><b>Technical Skills:</b> Data Science</li><br>
+  <li><b> Programming Skills:</b>  Basics of Java, Python, HTML</li>
+ <li><b>Technical Skills:</b> Data Science</li>
  <li>Problem Solving, MS office, Communication Skills, Content Editing, Technical Writing, Interpersonal Skills</li><br>
 </p>
