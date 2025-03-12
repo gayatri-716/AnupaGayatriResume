@@ -46,3 +46,7 @@
  <li><b>Java</b> Training certificate from Infotech Computers.</li>
  <li><b>Data Science</b> workshop certificate with Techgyan at <b>IIT Hyderabad.</b></li>
 </p>
+<p>
+  <h2>Languages</h2>
+  <li>English &emsp;&emsp;&emsp;&emsp; <li>Hindi &emsp;&emsp;&emsp;&emsp; <li>Telugu
+</p>
