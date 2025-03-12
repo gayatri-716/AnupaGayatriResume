@@ -24,5 +24,5 @@
 </p>
 <p>
   <h2>Internships</h2>
-    <li><b> Web Development Intern at VaultOfCodes</b> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; Dec 2023- Jan 2024 </li>&emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&nbsp; &emsp;&emsp;&emsp; - I have worked with <b>Python</b> and <b>Web Technologies</b> such as <b>HTML, CSS and SQL.</b>
+    <li><b> Web Development Intern at VaultOfCodes</b> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; Dec 2023- Jan 2024 </li>&emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&nbsp; &emsp;&emsp;&emsp; - I have worked with <b>Python</b> and <b>Web Technologies</b> such as <b>HTML, CSS and SQL.</b>
 </p>
