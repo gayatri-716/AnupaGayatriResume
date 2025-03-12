@@ -32,3 +32,10 @@
   <h2>Projects</h2>
   <li><b>Automated Text OverLay :-</b></li>- Real-time transcription, speaker diarization, and subtitle formatting for seamless video accessibility.<br> <br>
   <li><b>E-Commerce Website :-</b></li>- Using Full Stack Java and the Web Technologies the platform is created for easy shopping.<br>
+</p>
+<p>
+  <h2>Skills</h2>
+  <li><b> Programming Skills:</b>  Basics of Java, Python, HTML<br>
+ <b>Technical Skills:</b> Data Science<br>
+ Problem Solving, MS office, Communication Skills, Content Editing, Technical Writing, Interpersonal Skills<br>
+</p>
