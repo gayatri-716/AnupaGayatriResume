@@ -30,6 +30,5 @@
 </p>
 <p>
   <h2>Projects</h2>
-  <li><b>Automated Text OverLay :-</b></li>- Real-time transcription, speaker diarization, and subtitle formatting for seamless video accessibility.<br>
+  <li><b>Automated Text OverLay :-</b></li>- Real-time transcription, speaker diarization, and subtitle formatting for seamless video accessibility.<br> <br>
   <li><b>E-Commerce Website :-</b></li>- Using Full Stack Java and the Web Technologies the platform is created for easy shopping.<br>
-
