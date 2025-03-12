@@ -4,9 +4,9 @@
 </p>
 <p align="center">
   <b><u>Phone No:</u> +91 9493847657</b> &nbsp;&nbsp;&nbsp;&nbsp;
-<b><u>LinkedIn:</u></b> <a href="https://www.linkedin.com/in/anupa-gayatri-576030248/">www.linkedin.com/in/anupa-gayatri-576030248/</a> &nbsp;&nbsp;&nbsp;&nbsp;
+<b><u>LinkedIn:</u></b> <a href="https://www.linkedin.com/in/anupa-gayatri-576030248/">www.linkedin.com/in/anupa-gayatri-576030248/</a> &nbsp;&nbsp;&nbsp;&nbsp;<br>
 <b><u>Mail ID:</u></b> <a href="mailto:gayatrianupa@gmail.com">gayatrianupa@gmail.com</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-<b><u>GitHub:</u></b> <a href="https://github.com/gayatri-716">gayatrianupa@gmail.com</a>
+<b><u>GitHub:</u></b> <a href="https://github.com/gayatri-716">github.com/gayatri-716</a>
 </p>
 <p>
   <h2>Career Objective</h2>
