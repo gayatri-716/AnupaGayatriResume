@@ -48,5 +48,9 @@
 </p>
 <p>
   <h2>Languages</h2>
-  <li>English &emsp;&emsp;&emsp;&emsp; <li>Hindi &emsp;&emsp;&emsp;&emsp; <li>Telugu
+  <ul style="list-style: disc; display: flex; gap: 20px;">
+     <li>English</li>
+     <li>Hindi</li>
+     <li>Telugu</li>
+  </ul>
 </p>
