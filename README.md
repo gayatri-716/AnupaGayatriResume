@@ -18,7 +18,7 @@
   <h2>Education</h2>
   <p><b>G. Pulla Reddy Engineering College (Autonomous), Kurnool</b> &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; Nov 2021 -  2025<br> Bachelor of Technology, Computer Science and Engineering(CSE) &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&nbsp; &emsp;&emsp;&emsp;  <b>GPA</b>  (upto 4-1) : <b>6.8</b>
 </p>
-  <p><b> Sri Gayatri Junior College, Kurnool </b> &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; Jul 2019 - Apr 2021<br>  Intermediate in MPC (Maths, Physics, Chemistry)  &emsp;&emsp;&emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp; <b> Percentage: 92.3% </b>
+  <p><b> Sri Gayatri Junior College, Kurnool </b> &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; Jul 2019 - Apr 2021<br>  Intermediate in MPC (Maths, Physics, Chemistry)  &emsp;&emsp;&emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp; <b> Percentage: 92.3% </b>
 </p>
 <p><b> Montessori English Medium High School </b>  &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; Mar 2019<br>  Secondary School Certificate (SSC) &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;  <b>GPA : 9.8</b>
 </p>
@@ -48,9 +48,11 @@
 </p>
 <p>
   <h2>Languages</h2>
-  <ul style="list-style: disc; display: flex; gap: 20px;">
      <li>English</li>
      <li>Hindi</li>
      <li>Telugu</li>
-  </ul>
+</p>
+<p>
+  <h2>Declaration</h2>
+  <li> I hereby declare that the information furnished above is true to the best of my knowledge and supporting documents will be provided on request.</li>
 </p>
