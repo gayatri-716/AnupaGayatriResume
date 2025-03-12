@@ -39,3 +39,10 @@
  <li><b>Technical Skills:</b> Data Science</li>
  <li>Problem Solving, MS office, Communication Skills, Content Editing, Technical Writing, Interpersonal Skills</li><br>
 </p>
+<p>
+  <h2>Certifications</h2>
+  <li><b>HTML</b> Training certificate from Spoken Tutorials.</li>
+ <li><b>PHP</b> and <b>MySQL</b> certificates from Spoken Tutorials.</li>
+ <li><b>Java</b> Training certificate from Infotech Computers.</li>
+ <li><b>Data Science</b> workshop certificate with Techgyan at <b>IIT Hyderabad.</b></li>
+</p>
